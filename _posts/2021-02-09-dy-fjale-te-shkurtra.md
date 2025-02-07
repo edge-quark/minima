@@ -1,4 +1,7 @@
+---
 layout: post
+---
+
 title: "Dy fjale te shkurtra"
 categories: misc
 
