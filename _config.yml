@@ -1,6 +1,6 @@
 title: Hi, I'm Eni!
-author: Eni H.
-  name: Eni
+author:
+  name: Eni H.
   email: eh@boltzmann.capital
 
 # The `>` after `description:` means to ignore line-breaks until next key.
